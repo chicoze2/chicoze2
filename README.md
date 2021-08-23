@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently searching for a job
-- 🌱 I’m currently learning python for data science
+- 🌱 I’m actually learning python for data science
+- ☕ Improving my JavaScript skills
 - 📫 How to reach me: chicoze2@hotmail.com
-- ⚡ Fun fact: util I'm 15 years, I wanted to be a doctor
 - 🇧🇷
 
 
