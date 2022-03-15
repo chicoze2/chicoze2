@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently searching for a job
-- 🌱 I’m actually learning python for data science
+- 👨‍🎓 I’m studying System Analysis and Development at UNITAU - University of Taubaté
 - ☕ Improving my JavaScript skills
 - 📫 How to reach me: chicoze2@hotmail.com
 - 🇧🇷
