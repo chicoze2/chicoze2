@@ -1,7 +1,7 @@
 ### Olá, Bem Vindo ao meu perfil 👋
 
 
-- 🔭 I’m currently searching for a job
+- 🔭 I'm intern as a help support analyst
 - 👨‍🎓 I’m studying System Analysis and Development at UNITAU - University of Taubaté
 - ☕ Improving my JavaScript skills
 - 📫 How to reach me: chicoze2@hotmail.com
