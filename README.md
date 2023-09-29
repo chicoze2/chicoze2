@@ -38,7 +38,6 @@
   ***Bash scripts***
 
   * **Cloud** <br>
-
       **Heroku** <br>
       **AWS** <br>
       **VPS** <br>
@@ -53,9 +52,15 @@
 
 
 ### 5. 📖 Articles
->Soon!
+  >Soon!
+
+<br>
+<br>
 <br>
 
+
+
+### 6. 📞 Reach me!
 
 <div>
 <!-- Gmail -->
