@@ -23,7 +23,7 @@
   **Automation** scripts
 
   * **Java** <br>
-    Is the language that I am currently **learning on the College**
+    Is the language that I am currently **learning on the College** <br>
     Experience with **Swing** and
     **Data structures**
 
