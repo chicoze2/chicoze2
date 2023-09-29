@@ -6,7 +6,14 @@
 &emsp;&emsp;&emsp; **Speciality**: Backend engineer <br>
 &emsp;&emsp;&emsp; **Place**: SP - Brazil <br>
 
-### 2. 🖥️ **Stack** <br>
+### 2. 📚 **Repos** <br>
+
+  [**study**](https://github.com/chicoze2/study) - things that I'm learning. <br>
+  [**projects**](https://github.com/chicoze2/projects) - things that I'm building. <br>
+  [**tutorials**](https://github.com/chicoze2/tutorials) - codes from bootscamps / tutorials that I used to. <br>
+  [**chicoze2**](https://github.com/chicoze2/tutorials) - You are here. <br>
+
+### 3. 🖥️ **Stack** <br>
 > Wich programming languages I have experienced
 
   * **Python** <br>
@@ -26,7 +33,7 @@
     **Express.js** library <br>
 
 
-### 3. 🌐 Host experiences
+### 4. 🌐 Host experiences
 > My experience with hosting apps / managing servers
 
   * **O.S.** <br> Debian <br> UbuntuServer <br> Proxmox <br> Windows Server
@@ -43,7 +50,7 @@
       **VPS** <br>
 
 
-### 4. 📊 Databases
+### 5. 📊 Databases
 
   * **SQL Server**
   * **SQLite**
@@ -51,7 +58,7 @@
   * **JSON** format
 
 
-### 5. 📖 Articles
+### 6. 📖 Articles
   >Soon!
 
 <br>
@@ -60,7 +67,7 @@
 
 
 
-### 6. 📞 Reach me!
+### 7. 📞 Reach me!
 
 <div>
 <!-- Gmail -->
